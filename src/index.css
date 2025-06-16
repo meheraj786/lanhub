@@ -18,6 +18,9 @@ h2{
   @apply text-[30px] font-bold leading-[36px] text-text-primary font-primary
 }
 h3{
+  @apply text-[24px] font-bold leading-[36px] text-text-primary font-primary
+}
+h4{
   @apply text-[20px] font-normal leading-[30px] text-text-secondary font-primary
 }
 p{
